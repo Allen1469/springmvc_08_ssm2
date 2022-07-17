@@ -19,7 +19,7 @@ public class BookServiceTest {
 
     @Test
     public void testGetById(){
-        Book book = bookService.getById(4);
+        Book book = bookService.getById(5);
         System.out.println(book);
     }
 
