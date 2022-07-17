@@ -21,6 +21,7 @@ public class BookServiceTest {
     public void testGetById(){
         Book book = bookService.getById(5);
         System.out.println(book);
+        System.out.println("hot-fix test");
     }
 
     @Test

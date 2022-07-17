@@ -19,7 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="38677d5f51a3a03e0857acf6297eb75210e80dad" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -139,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658038801777</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="hoy-fix commit1">
+      <created>1658039333350</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658039333350</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,6 +167,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="second commit" />
     <MESSAGE value="second2 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="second2 commit" />
+    <MESSAGE value="hoy-fix commit1" />
+    <option name="LAST_COMMIT_MESSAGE" value="hoy-fix commit1" />
   </component>
 </project>
